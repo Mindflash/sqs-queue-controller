@@ -1,0 +1,10 @@
+{
+    "defaultQueueURL": "http://defaultMockQueue/",
+    "queueArray": {
+        "Word": "http://WordMockQueue/",
+        "PDF": "http://PDFMockQueue/",
+        "Scorm": "http://ScormMockQueue/",
+        "Powerpoint": "http://PowerpointMockQueue/",
+        "Video": "http://VideoMockQueue/"
+    }
+}

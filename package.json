@@ -1,0 +1,30 @@
+{
+  "name": "sqs-queue-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NamelessHH/sqs-queue-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamelessHH/sqs-queue-controller/issues"
+  },
+  "homepage": "https://github.com/NamelessHH/sqs-queue-controller#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "tslint-eslint-rules": "^4.1.1"
+  },
+  "dependencies": {
+    "@types/config": "0.0.33",
+    "aws-sdk": "^2.188.0",
+    "config": "^1.29.2"
+  }
+}
